@@ -1,0 +1,61 @@
+// @file
+// The major stylesheet for this theme.
+//
+// We categorize our components by creating headings in this file. See the
+// description on the style guide home page for more information.
+
+
+// Colors and Sass
+//
+// Documentation for colors and Sass mixins and variables.
+//
+// Weight: -1
+//
+// Style guide: sass
+@import 'init';
+
+// Defaults
+//
+// These are the default base styles applied to HTML elements.
+//
+// Component classes can override these styles, but if no class applies a style
+// to an HTML element, these styles will be the ones displayed.
+//
+// Style guide: base
+
+// Ensure fonts get loaded first to minimize front-end performance impact.
+@import 'base/fonts';
+@import 'base/**/*';
+
+// Layouts
+//
+// The layout styling for major parts of the page that are included with the
+// theme. Note: some Panels layouts are included in other parts of the system
+// and are not documented.
+//
+// Style guide: layouts
+@import 'layouts/**/*';
+
+// Forms
+//
+// Form components are specialized design components that are applied to forms
+// or form elements.
+//
+// Weight: 1
+//
+// Style guide: forms
+
+// Components
+//
+// Design components are reusable designs that can be applied using just the CSS
+// class names specified in the component.
+//
+// Weight: 2
+//
+// Style guide: components
+
+// Navigation
+//
+// Style guide: components.navigation
+
+@import 'components/**/*';

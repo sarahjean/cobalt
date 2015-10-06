@@ -1,0 +1,1708 @@
+{
+  "testPairs": [
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_0_kssref-base-headings_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_0_kssref-base-headings_0_phone.png",
+      "selector": "#kssref-base-headings",
+      "fileName": "0_0_kssref-base-headings_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_1_kssref-base-link_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_1_kssref-base-link_0_phone.png",
+      "selector": "#kssref-base-link",
+      "fileName": "0_1_kssref-base-link_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_2_kssref-base-grouping-p_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_2_kssref-base-grouping-p_0_phone.png",
+      "selector": "#kssref-base-grouping-p",
+      "fileName": "0_2_kssref-base-grouping-p_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_3_kssref-base-grouping-lists-ol_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_3_kssref-base-grouping-lists-ol_0_phone.png",
+      "selector": "#kssref-base-grouping-lists-ol",
+      "fileName": "0_3_kssref-base-grouping-lists-ol_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_4_kssref-base-grouping-lists-ul_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_4_kssref-base-grouping-lists-ul_0_phone.png",
+      "selector": "#kssref-base-grouping-lists-ul",
+      "fileName": "0_4_kssref-base-grouping-lists-ul_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_5_kssref-base-grouping-lists-dl_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_5_kssref-base-grouping-lists-dl_0_phone.png",
+      "selector": "#kssref-base-grouping-lists-dl",
+      "fileName": "0_5_kssref-base-grouping-lists-dl_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_6_kssref-base-grouping-blockquote_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_6_kssref-base-grouping-blockquote_0_phone.png",
+      "selector": "#kssref-base-grouping-blockquote",
+      "fileName": "0_6_kssref-base-grouping-blockquote_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_7_kssref-base-grouping-figure_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_7_kssref-base-grouping-figure_0_phone.png",
+      "selector": "#kssref-base-grouping-figure",
+      "fileName": "0_7_kssref-base-grouping-figure_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_8_kssref-base-grouping-hr_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_8_kssref-base-grouping-hr_0_phone.png",
+      "selector": "#kssref-base-grouping-hr",
+      "fileName": "0_8_kssref-base-grouping-hr_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_9_kssref-base-grouping-pre_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_9_kssref-base-grouping-pre_0_phone.png",
+      "selector": "#kssref-base-grouping-pre",
+      "fileName": "0_9_kssref-base-grouping-pre_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_10_kssref-base-table_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_10_kssref-base-table_0_phone.png",
+      "selector": "#kssref-base-table",
+      "fileName": "0_10_kssref-base-table_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_11_kssref-base-text-b_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_11_kssref-base-text-b_0_phone.png",
+      "selector": "#kssref-base-text-b",
+      "fileName": "0_11_kssref-base-text-b_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_12_kssref-base-text-i_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_12_kssref-base-text-i_0_phone.png",
+      "selector": "#kssref-base-text-i",
+      "fileName": "0_12_kssref-base-text-i_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_13_kssref-base-text-abbr_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_13_kssref-base-text-abbr_0_phone.png",
+      "selector": "#kssref-base-text-abbr",
+      "fileName": "0_13_kssref-base-text-abbr_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_14_kssref-base-text-cite_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_14_kssref-base-text-cite_0_phone.png",
+      "selector": "#kssref-base-text-cite",
+      "fileName": "0_14_kssref-base-text-cite_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_15_kssref-base-text-code_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_15_kssref-base-text-code_0_phone.png",
+      "selector": "#kssref-base-text-code",
+      "fileName": "0_15_kssref-base-text-code_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_16_kssref-base-text-del_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_16_kssref-base-text-del_0_phone.png",
+      "selector": "#kssref-base-text-del",
+      "fileName": "0_16_kssref-base-text-del_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_17_kssref-base-text-dfn_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_17_kssref-base-text-dfn_0_phone.png",
+      "selector": "#kssref-base-text-dfn",
+      "fileName": "0_17_kssref-base-text-dfn_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_18_kssref-base-text-ins_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_18_kssref-base-text-ins_0_phone.png",
+      "selector": "#kssref-base-text-ins",
+      "fileName": "0_18_kssref-base-text-ins_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_19_kssref-base-text-mark_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_19_kssref-base-text-mark_0_phone.png",
+      "selector": "#kssref-base-text-mark",
+      "fileName": "0_19_kssref-base-text-mark_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_20_kssref-base-text-q_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_20_kssref-base-text-q_0_phone.png",
+      "selector": "#kssref-base-text-q",
+      "fileName": "0_20_kssref-base-text-q_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_21_kssref-base-text-s_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_21_kssref-base-text-s_0_phone.png",
+      "selector": "#kssref-base-text-s",
+      "fileName": "0_21_kssref-base-text-s_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_22_kssref-base-text-small_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_22_kssref-base-text-small_0_phone.png",
+      "selector": "#kssref-base-text-small",
+      "fileName": "0_22_kssref-base-text-small_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_23_kssref-base-text-sub_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_23_kssref-base-text-sub_0_phone.png",
+      "selector": "#kssref-base-text-sub",
+      "fileName": "0_23_kssref-base-text-sub_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_24_kssref-base-text-u_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_24_kssref-base-text-u_0_phone.png",
+      "selector": "#kssref-base-text-u",
+      "fileName": "0_24_kssref-base-text-u_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_25_kssref-base-embedded-img_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_25_kssref-base-embedded-img_0_phone.png",
+      "selector": "#kssref-base-embedded-img",
+      "fileName": "0_25_kssref-base-embedded-img_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_26_kssref-base-embedded-svg_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_26_kssref-base-embedded-svg_0_phone.png",
+      "selector": "#kssref-base-embedded-svg",
+      "fileName": "0_26_kssref-base-embedded-svg_0_phone.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_0_kssref-base-headings_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_0_kssref-base-headings_1_tablet_v.png",
+      "selector": "#kssref-base-headings",
+      "fileName": "0_0_kssref-base-headings_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_1_kssref-base-link_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_1_kssref-base-link_1_tablet_v.png",
+      "selector": "#kssref-base-link",
+      "fileName": "0_1_kssref-base-link_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_2_kssref-base-grouping-p_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_2_kssref-base-grouping-p_1_tablet_v.png",
+      "selector": "#kssref-base-grouping-p",
+      "fileName": "0_2_kssref-base-grouping-p_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_3_kssref-base-grouping-lists-ol_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_3_kssref-base-grouping-lists-ol_1_tablet_v.png",
+      "selector": "#kssref-base-grouping-lists-ol",
+      "fileName": "0_3_kssref-base-grouping-lists-ol_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_4_kssref-base-grouping-lists-ul_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_4_kssref-base-grouping-lists-ul_1_tablet_v.png",
+      "selector": "#kssref-base-grouping-lists-ul",
+      "fileName": "0_4_kssref-base-grouping-lists-ul_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_5_kssref-base-grouping-lists-dl_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_5_kssref-base-grouping-lists-dl_1_tablet_v.png",
+      "selector": "#kssref-base-grouping-lists-dl",
+      "fileName": "0_5_kssref-base-grouping-lists-dl_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_6_kssref-base-grouping-blockquote_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_6_kssref-base-grouping-blockquote_1_tablet_v.png",
+      "selector": "#kssref-base-grouping-blockquote",
+      "fileName": "0_6_kssref-base-grouping-blockquote_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_7_kssref-base-grouping-figure_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_7_kssref-base-grouping-figure_1_tablet_v.png",
+      "selector": "#kssref-base-grouping-figure",
+      "fileName": "0_7_kssref-base-grouping-figure_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_8_kssref-base-grouping-hr_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_8_kssref-base-grouping-hr_1_tablet_v.png",
+      "selector": "#kssref-base-grouping-hr",
+      "fileName": "0_8_kssref-base-grouping-hr_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_9_kssref-base-grouping-pre_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_9_kssref-base-grouping-pre_1_tablet_v.png",
+      "selector": "#kssref-base-grouping-pre",
+      "fileName": "0_9_kssref-base-grouping-pre_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_10_kssref-base-table_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_10_kssref-base-table_1_tablet_v.png",
+      "selector": "#kssref-base-table",
+      "fileName": "0_10_kssref-base-table_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_11_kssref-base-text-b_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_11_kssref-base-text-b_1_tablet_v.png",
+      "selector": "#kssref-base-text-b",
+      "fileName": "0_11_kssref-base-text-b_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_12_kssref-base-text-i_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_12_kssref-base-text-i_1_tablet_v.png",
+      "selector": "#kssref-base-text-i",
+      "fileName": "0_12_kssref-base-text-i_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_13_kssref-base-text-abbr_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_13_kssref-base-text-abbr_1_tablet_v.png",
+      "selector": "#kssref-base-text-abbr",
+      "fileName": "0_13_kssref-base-text-abbr_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_14_kssref-base-text-cite_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_14_kssref-base-text-cite_1_tablet_v.png",
+      "selector": "#kssref-base-text-cite",
+      "fileName": "0_14_kssref-base-text-cite_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_15_kssref-base-text-code_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_15_kssref-base-text-code_1_tablet_v.png",
+      "selector": "#kssref-base-text-code",
+      "fileName": "0_15_kssref-base-text-code_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_16_kssref-base-text-del_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_16_kssref-base-text-del_1_tablet_v.png",
+      "selector": "#kssref-base-text-del",
+      "fileName": "0_16_kssref-base-text-del_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_17_kssref-base-text-dfn_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_17_kssref-base-text-dfn_1_tablet_v.png",
+      "selector": "#kssref-base-text-dfn",
+      "fileName": "0_17_kssref-base-text-dfn_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_18_kssref-base-text-ins_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_18_kssref-base-text-ins_1_tablet_v.png",
+      "selector": "#kssref-base-text-ins",
+      "fileName": "0_18_kssref-base-text-ins_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_19_kssref-base-text-mark_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_19_kssref-base-text-mark_1_tablet_v.png",
+      "selector": "#kssref-base-text-mark",
+      "fileName": "0_19_kssref-base-text-mark_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_20_kssref-base-text-q_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_20_kssref-base-text-q_1_tablet_v.png",
+      "selector": "#kssref-base-text-q",
+      "fileName": "0_20_kssref-base-text-q_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_21_kssref-base-text-s_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_21_kssref-base-text-s_1_tablet_v.png",
+      "selector": "#kssref-base-text-s",
+      "fileName": "0_21_kssref-base-text-s_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_22_kssref-base-text-small_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_22_kssref-base-text-small_1_tablet_v.png",
+      "selector": "#kssref-base-text-small",
+      "fileName": "0_22_kssref-base-text-small_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_23_kssref-base-text-sub_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_23_kssref-base-text-sub_1_tablet_v.png",
+      "selector": "#kssref-base-text-sub",
+      "fileName": "0_23_kssref-base-text-sub_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_24_kssref-base-text-u_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_24_kssref-base-text-u_1_tablet_v.png",
+      "selector": "#kssref-base-text-u",
+      "fileName": "0_24_kssref-base-text-u_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_25_kssref-base-embedded-img_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_25_kssref-base-embedded-img_1_tablet_v.png",
+      "selector": "#kssref-base-embedded-img",
+      "fileName": "0_25_kssref-base-embedded-img_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_26_kssref-base-embedded-svg_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_26_kssref-base-embedded-svg_1_tablet_v.png",
+      "selector": "#kssref-base-embedded-svg",
+      "fileName": "0_26_kssref-base-embedded-svg_1_tablet_v.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_0_kssref-base-headings_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_0_kssref-base-headings_2_desktop.png",
+      "selector": "#kssref-base-headings",
+      "fileName": "0_0_kssref-base-headings_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_1_kssref-base-link_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_1_kssref-base-link_2_desktop.png",
+      "selector": "#kssref-base-link",
+      "fileName": "0_1_kssref-base-link_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_2_kssref-base-grouping-p_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_2_kssref-base-grouping-p_2_desktop.png",
+      "selector": "#kssref-base-grouping-p",
+      "fileName": "0_2_kssref-base-grouping-p_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_3_kssref-base-grouping-lists-ol_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_3_kssref-base-grouping-lists-ol_2_desktop.png",
+      "selector": "#kssref-base-grouping-lists-ol",
+      "fileName": "0_3_kssref-base-grouping-lists-ol_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_4_kssref-base-grouping-lists-ul_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_4_kssref-base-grouping-lists-ul_2_desktop.png",
+      "selector": "#kssref-base-grouping-lists-ul",
+      "fileName": "0_4_kssref-base-grouping-lists-ul_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_5_kssref-base-grouping-lists-dl_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_5_kssref-base-grouping-lists-dl_2_desktop.png",
+      "selector": "#kssref-base-grouping-lists-dl",
+      "fileName": "0_5_kssref-base-grouping-lists-dl_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_6_kssref-base-grouping-blockquote_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_6_kssref-base-grouping-blockquote_2_desktop.png",
+      "selector": "#kssref-base-grouping-blockquote",
+      "fileName": "0_6_kssref-base-grouping-blockquote_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_7_kssref-base-grouping-figure_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_7_kssref-base-grouping-figure_2_desktop.png",
+      "selector": "#kssref-base-grouping-figure",
+      "fileName": "0_7_kssref-base-grouping-figure_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_8_kssref-base-grouping-hr_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_8_kssref-base-grouping-hr_2_desktop.png",
+      "selector": "#kssref-base-grouping-hr",
+      "fileName": "0_8_kssref-base-grouping-hr_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_9_kssref-base-grouping-pre_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_9_kssref-base-grouping-pre_2_desktop.png",
+      "selector": "#kssref-base-grouping-pre",
+      "fileName": "0_9_kssref-base-grouping-pre_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_10_kssref-base-table_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_10_kssref-base-table_2_desktop.png",
+      "selector": "#kssref-base-table",
+      "fileName": "0_10_kssref-base-table_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_11_kssref-base-text-b_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_11_kssref-base-text-b_2_desktop.png",
+      "selector": "#kssref-base-text-b",
+      "fileName": "0_11_kssref-base-text-b_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_12_kssref-base-text-i_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_12_kssref-base-text-i_2_desktop.png",
+      "selector": "#kssref-base-text-i",
+      "fileName": "0_12_kssref-base-text-i_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_13_kssref-base-text-abbr_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_13_kssref-base-text-abbr_2_desktop.png",
+      "selector": "#kssref-base-text-abbr",
+      "fileName": "0_13_kssref-base-text-abbr_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_14_kssref-base-text-cite_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_14_kssref-base-text-cite_2_desktop.png",
+      "selector": "#kssref-base-text-cite",
+      "fileName": "0_14_kssref-base-text-cite_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_15_kssref-base-text-code_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_15_kssref-base-text-code_2_desktop.png",
+      "selector": "#kssref-base-text-code",
+      "fileName": "0_15_kssref-base-text-code_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_16_kssref-base-text-del_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_16_kssref-base-text-del_2_desktop.png",
+      "selector": "#kssref-base-text-del",
+      "fileName": "0_16_kssref-base-text-del_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_17_kssref-base-text-dfn_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_17_kssref-base-text-dfn_2_desktop.png",
+      "selector": "#kssref-base-text-dfn",
+      "fileName": "0_17_kssref-base-text-dfn_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_18_kssref-base-text-ins_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_18_kssref-base-text-ins_2_desktop.png",
+      "selector": "#kssref-base-text-ins",
+      "fileName": "0_18_kssref-base-text-ins_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_19_kssref-base-text-mark_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_19_kssref-base-text-mark_2_desktop.png",
+      "selector": "#kssref-base-text-mark",
+      "fileName": "0_19_kssref-base-text-mark_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_20_kssref-base-text-q_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_20_kssref-base-text-q_2_desktop.png",
+      "selector": "#kssref-base-text-q",
+      "fileName": "0_20_kssref-base-text-q_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_21_kssref-base-text-s_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_21_kssref-base-text-s_2_desktop.png",
+      "selector": "#kssref-base-text-s",
+      "fileName": "0_21_kssref-base-text-s_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_22_kssref-base-text-small_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_22_kssref-base-text-small_2_desktop.png",
+      "selector": "#kssref-base-text-small",
+      "fileName": "0_22_kssref-base-text-small_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_23_kssref-base-text-sub_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_23_kssref-base-text-sub_2_desktop.png",
+      "selector": "#kssref-base-text-sub",
+      "fileName": "0_23_kssref-base-text-sub_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_24_kssref-base-text-u_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_24_kssref-base-text-u_2_desktop.png",
+      "selector": "#kssref-base-text-u",
+      "fileName": "0_24_kssref-base-text-u_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_25_kssref-base-embedded-img_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_25_kssref-base-embedded-img_2_desktop.png",
+      "selector": "#kssref-base-embedded-img",
+      "fileName": "0_25_kssref-base-embedded-img_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/0_26_kssref-base-embedded-svg_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/0_26_kssref-base-embedded-svg_2_desktop.png",
+      "selector": "#kssref-base-embedded-svg",
+      "fileName": "0_26_kssref-base-embedded-svg_2_desktop.png",
+      "label": "Base",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_0_kssref-forms-base-button_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_0_kssref-forms-base-button_0_phone.png",
+      "selector": "#kssref-forms-base-button",
+      "fileName": "1_0_kssref-forms-base-button_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_1_kssref-forms-base-fieldset_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_1_kssref-forms-base-fieldset_0_phone.png",
+      "selector": "#kssref-forms-base-fieldset",
+      "fileName": "1_1_kssref-forms-base-fieldset_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_2_kssref-forms-base-input_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_2_kssref-forms-base-input_0_phone.png",
+      "selector": "#kssref-forms-base-input",
+      "fileName": "1_2_kssref-forms-base-input_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_3_kssref-forms-base-input-checkbox_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_3_kssref-forms-base-input-checkbox_0_phone.png",
+      "selector": "#kssref-forms-base-input-checkbox",
+      "fileName": "1_3_kssref-forms-base-input-checkbox_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_4_kssref-forms-base-input-radio_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_4_kssref-forms-base-input-radio_0_phone.png",
+      "selector": "#kssref-forms-base-input-radio",
+      "fileName": "1_4_kssref-forms-base-input-radio_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_5_kssref-forms-base-label_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_5_kssref-forms-base-label_0_phone.png",
+      "selector": "#kssref-forms-base-label",
+      "fileName": "1_5_kssref-forms-base-label_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_6_kssref-forms-base-select_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_6_kssref-forms-base-select_0_phone.png",
+      "selector": "#kssref-forms-base-select",
+      "fileName": "1_6_kssref-forms-base-select_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_7_kssref-forms-base-textarea_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_7_kssref-forms-base-textarea_0_phone.png",
+      "selector": "#kssref-forms-base-textarea",
+      "fileName": "1_7_kssref-forms-base-textarea_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_8_kssref-forms-autocomplete_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_8_kssref-forms-autocomplete_0_phone.png",
+      "selector": "#kssref-forms-autocomplete",
+      "fileName": "1_8_kssref-forms-autocomplete_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_9_kssref-forms-button_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_9_kssref-forms-button_0_phone.png",
+      "selector": "#kssref-forms-button",
+      "fileName": "1_9_kssref-forms-button_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_10_kssref-forms-collapsible-fieldset_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_10_kssref-forms-collapsible-fieldset_0_phone.png",
+      "selector": "#kssref-forms-collapsible-fieldset",
+      "fileName": "1_10_kssref-forms-collapsible-fieldset_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_11_kssref-forms-form-item_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_11_kssref-forms-form-item_0_phone.png",
+      "selector": "#kssref-forms-form-item",
+      "fileName": "1_11_kssref-forms-form-item_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_12_kssref-forms-form-item--radio_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_12_kssref-forms-form-item--radio_0_phone.png",
+      "selector": "#kssref-forms-form-item--radio",
+      "fileName": "1_12_kssref-forms-form-item--radio_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_13_kssref-forms-form-table_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_13_kssref-forms-form-table_0_phone.png",
+      "selector": "#kssref-forms-form-table",
+      "fileName": "1_13_kssref-forms-form-table_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_14_kssref-forms-progress-bar_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_14_kssref-forms-progress-bar_0_phone.png",
+      "selector": "#kssref-forms-progress-bar",
+      "fileName": "1_14_kssref-forms-progress-bar_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_15_kssref-forms-progress-throbber_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_15_kssref-forms-progress-throbber_0_phone.png",
+      "selector": "#kssref-forms-progress-throbber",
+      "fileName": "1_15_kssref-forms-progress-throbber_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_16_kssref-forms-resizable-textarea_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_16_kssref-forms-resizable-textarea_0_phone.png",
+      "selector": "#kssref-forms-resizable-textarea",
+      "fileName": "1_16_kssref-forms-resizable-textarea_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_17_kssref-forms-table-drag_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_17_kssref-forms-table-drag_0_phone.png",
+      "selector": "#kssref-forms-table-drag",
+      "fileName": "1_17_kssref-forms-table-drag_0_phone.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_0_kssref-forms-base-button_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_0_kssref-forms-base-button_1_tablet_v.png",
+      "selector": "#kssref-forms-base-button",
+      "fileName": "1_0_kssref-forms-base-button_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_1_kssref-forms-base-fieldset_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_1_kssref-forms-base-fieldset_1_tablet_v.png",
+      "selector": "#kssref-forms-base-fieldset",
+      "fileName": "1_1_kssref-forms-base-fieldset_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_2_kssref-forms-base-input_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_2_kssref-forms-base-input_1_tablet_v.png",
+      "selector": "#kssref-forms-base-input",
+      "fileName": "1_2_kssref-forms-base-input_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_3_kssref-forms-base-input-checkbox_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_3_kssref-forms-base-input-checkbox_1_tablet_v.png",
+      "selector": "#kssref-forms-base-input-checkbox",
+      "fileName": "1_3_kssref-forms-base-input-checkbox_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_4_kssref-forms-base-input-radio_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_4_kssref-forms-base-input-radio_1_tablet_v.png",
+      "selector": "#kssref-forms-base-input-radio",
+      "fileName": "1_4_kssref-forms-base-input-radio_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_5_kssref-forms-base-label_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_5_kssref-forms-base-label_1_tablet_v.png",
+      "selector": "#kssref-forms-base-label",
+      "fileName": "1_5_kssref-forms-base-label_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_6_kssref-forms-base-select_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_6_kssref-forms-base-select_1_tablet_v.png",
+      "selector": "#kssref-forms-base-select",
+      "fileName": "1_6_kssref-forms-base-select_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_7_kssref-forms-base-textarea_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_7_kssref-forms-base-textarea_1_tablet_v.png",
+      "selector": "#kssref-forms-base-textarea",
+      "fileName": "1_7_kssref-forms-base-textarea_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_8_kssref-forms-autocomplete_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_8_kssref-forms-autocomplete_1_tablet_v.png",
+      "selector": "#kssref-forms-autocomplete",
+      "fileName": "1_8_kssref-forms-autocomplete_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_9_kssref-forms-button_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_9_kssref-forms-button_1_tablet_v.png",
+      "selector": "#kssref-forms-button",
+      "fileName": "1_9_kssref-forms-button_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_10_kssref-forms-collapsible-fieldset_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_10_kssref-forms-collapsible-fieldset_1_tablet_v.png",
+      "selector": "#kssref-forms-collapsible-fieldset",
+      "fileName": "1_10_kssref-forms-collapsible-fieldset_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_11_kssref-forms-form-item_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_11_kssref-forms-form-item_1_tablet_v.png",
+      "selector": "#kssref-forms-form-item",
+      "fileName": "1_11_kssref-forms-form-item_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_12_kssref-forms-form-item--radio_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_12_kssref-forms-form-item--radio_1_tablet_v.png",
+      "selector": "#kssref-forms-form-item--radio",
+      "fileName": "1_12_kssref-forms-form-item--radio_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_13_kssref-forms-form-table_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_13_kssref-forms-form-table_1_tablet_v.png",
+      "selector": "#kssref-forms-form-table",
+      "fileName": "1_13_kssref-forms-form-table_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_14_kssref-forms-progress-bar_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_14_kssref-forms-progress-bar_1_tablet_v.png",
+      "selector": "#kssref-forms-progress-bar",
+      "fileName": "1_14_kssref-forms-progress-bar_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_15_kssref-forms-progress-throbber_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_15_kssref-forms-progress-throbber_1_tablet_v.png",
+      "selector": "#kssref-forms-progress-throbber",
+      "fileName": "1_15_kssref-forms-progress-throbber_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_16_kssref-forms-resizable-textarea_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_16_kssref-forms-resizable-textarea_1_tablet_v.png",
+      "selector": "#kssref-forms-resizable-textarea",
+      "fileName": "1_16_kssref-forms-resizable-textarea_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_17_kssref-forms-table-drag_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_17_kssref-forms-table-drag_1_tablet_v.png",
+      "selector": "#kssref-forms-table-drag",
+      "fileName": "1_17_kssref-forms-table-drag_1_tablet_v.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_0_kssref-forms-base-button_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_0_kssref-forms-base-button_2_desktop.png",
+      "selector": "#kssref-forms-base-button",
+      "fileName": "1_0_kssref-forms-base-button_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_1_kssref-forms-base-fieldset_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_1_kssref-forms-base-fieldset_2_desktop.png",
+      "selector": "#kssref-forms-base-fieldset",
+      "fileName": "1_1_kssref-forms-base-fieldset_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_2_kssref-forms-base-input_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_2_kssref-forms-base-input_2_desktop.png",
+      "selector": "#kssref-forms-base-input",
+      "fileName": "1_2_kssref-forms-base-input_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_3_kssref-forms-base-input-checkbox_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_3_kssref-forms-base-input-checkbox_2_desktop.png",
+      "selector": "#kssref-forms-base-input-checkbox",
+      "fileName": "1_3_kssref-forms-base-input-checkbox_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_4_kssref-forms-base-input-radio_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_4_kssref-forms-base-input-radio_2_desktop.png",
+      "selector": "#kssref-forms-base-input-radio",
+      "fileName": "1_4_kssref-forms-base-input-radio_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_5_kssref-forms-base-label_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_5_kssref-forms-base-label_2_desktop.png",
+      "selector": "#kssref-forms-base-label",
+      "fileName": "1_5_kssref-forms-base-label_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_6_kssref-forms-base-select_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_6_kssref-forms-base-select_2_desktop.png",
+      "selector": "#kssref-forms-base-select",
+      "fileName": "1_6_kssref-forms-base-select_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_7_kssref-forms-base-textarea_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_7_kssref-forms-base-textarea_2_desktop.png",
+      "selector": "#kssref-forms-base-textarea",
+      "fileName": "1_7_kssref-forms-base-textarea_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_8_kssref-forms-autocomplete_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_8_kssref-forms-autocomplete_2_desktop.png",
+      "selector": "#kssref-forms-autocomplete",
+      "fileName": "1_8_kssref-forms-autocomplete_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_9_kssref-forms-button_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_9_kssref-forms-button_2_desktop.png",
+      "selector": "#kssref-forms-button",
+      "fileName": "1_9_kssref-forms-button_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_10_kssref-forms-collapsible-fieldset_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_10_kssref-forms-collapsible-fieldset_2_desktop.png",
+      "selector": "#kssref-forms-collapsible-fieldset",
+      "fileName": "1_10_kssref-forms-collapsible-fieldset_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_11_kssref-forms-form-item_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_11_kssref-forms-form-item_2_desktop.png",
+      "selector": "#kssref-forms-form-item",
+      "fileName": "1_11_kssref-forms-form-item_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_12_kssref-forms-form-item--radio_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_12_kssref-forms-form-item--radio_2_desktop.png",
+      "selector": "#kssref-forms-form-item--radio",
+      "fileName": "1_12_kssref-forms-form-item--radio_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_13_kssref-forms-form-table_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_13_kssref-forms-form-table_2_desktop.png",
+      "selector": "#kssref-forms-form-table",
+      "fileName": "1_13_kssref-forms-form-table_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_14_kssref-forms-progress-bar_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_14_kssref-forms-progress-bar_2_desktop.png",
+      "selector": "#kssref-forms-progress-bar",
+      "fileName": "1_14_kssref-forms-progress-bar_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_15_kssref-forms-progress-throbber_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_15_kssref-forms-progress-throbber_2_desktop.png",
+      "selector": "#kssref-forms-progress-throbber",
+      "fileName": "1_15_kssref-forms-progress-throbber_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_16_kssref-forms-resizable-textarea_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_16_kssref-forms-resizable-textarea_2_desktop.png",
+      "selector": "#kssref-forms-resizable-textarea",
+      "fileName": "1_16_kssref-forms-resizable-textarea_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/1_17_kssref-forms-table-drag_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/1_17_kssref-forms-table-drag_2_desktop.png",
+      "selector": "#kssref-forms-table-drag",
+      "fileName": "1_17_kssref-forms-table-drag_2_desktop.png",
+      "label": "Forms",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_0_kssref-components-box_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_0_kssref-components-box_0_phone.png",
+      "selector": "#kssref-components-box",
+      "fileName": "2_0_kssref-components-box_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_1_kssref-components-comments_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_1_kssref-components-comments_0_phone.png",
+      "selector": "#kssref-components-comments",
+      "fileName": "2_1_kssref-components-comments_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_2_kssref-components-clearfix_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_2_kssref-components-clearfix_0_phone.png",
+      "selector": "#kssref-components-clearfix",
+      "fileName": "2_2_kssref-components-clearfix_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_3_kssref-components-divider_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_3_kssref-components-divider_0_phone.png",
+      "selector": "#kssref-components-divider",
+      "fileName": "2_3_kssref-components-divider_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_4_kssref-components-header_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_4_kssref-components-header_0_phone.png",
+      "selector": "#kssref-components-header",
+      "fileName": "2_4_kssref-components-header_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_5_kssref-components-hidden_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_5_kssref-components-hidden_0_phone.png",
+      "selector": "#kssref-components-hidden",
+      "fileName": "2_5_kssref-components-hidden_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_6_kssref-components-highlight-mark_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_6_kssref-components-highlight-mark_0_phone.png",
+      "selector": "#kssref-components-highlight-mark",
+      "fileName": "2_6_kssref-components-highlight-mark_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_7_kssref-components-inline-links_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_7_kssref-components-inline-links_0_phone.png",
+      "selector": "#kssref-components-inline-links",
+      "fileName": "2_7_kssref-components-inline-links_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_8_kssref-components-inline-sibling_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_8_kssref-components-inline-sibling_0_phone.png",
+      "selector": "#kssref-components-inline-sibling",
+      "fileName": "2_8_kssref-components-inline-sibling_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_9_kssref-components-messages_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_9_kssref-components-messages_0_phone.png",
+      "selector": "#kssref-components-messages",
+      "fileName": "2_9_kssref-components-messages_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_10_kssref-components-messages-multiple_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_10_kssref-components-messages-multiple_0_phone.png",
+      "selector": "#kssref-components-messages-multiple",
+      "fileName": "2_10_kssref-components-messages-multiple_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_11_kssref-components-messages-status_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_11_kssref-components-messages-status_0_phone.png",
+      "selector": "#kssref-components-messages-status",
+      "fileName": "2_11_kssref-components-messages-status_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_12_kssref-components-navigation-breadcrumb_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_12_kssref-components-navigation-breadcrumb_0_phone.png",
+      "selector": "#kssref-components-navigation-breadcrumb",
+      "fileName": "2_12_kssref-components-navigation-breadcrumb_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_13_kssref-components-navigation-more-link_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_13_kssref-components-navigation-more-link_0_phone.png",
+      "selector": "#kssref-components-navigation-more-link",
+      "fileName": "2_13_kssref-components-navigation-more-link_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_14_kssref-components-navigation-nav-menu_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_14_kssref-components-navigation-nav-menu_0_phone.png",
+      "selector": "#kssref-components-navigation-nav-menu",
+      "fileName": "2_14_kssref-components-navigation-nav-menu_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_15_kssref-components-navigation-navbar_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_15_kssref-components-navigation-navbar_0_phone.png",
+      "selector": "#kssref-components-navigation-navbar",
+      "fileName": "2_15_kssref-components-navigation-navbar_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_16_kssref-components-navigation-pager_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_16_kssref-components-navigation-pager_0_phone.png",
+      "selector": "#kssref-components-navigation-pager",
+      "fileName": "2_16_kssref-components-navigation-pager_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_17_kssref-components-navigation-skip-link_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_17_kssref-components-navigation-skip-link_0_phone.png",
+      "selector": "#kssref-components-navigation-skip-link",
+      "fileName": "2_17_kssref-components-navigation-skip-link_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_18_kssref-components-navigation-tabs_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_18_kssref-components-navigation-tabs_0_phone.png",
+      "selector": "#kssref-components-navigation-tabs",
+      "fileName": "2_18_kssref-components-navigation-tabs_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_19_kssref-components-navigation-tabs-primary_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_19_kssref-components-navigation-tabs-primary_0_phone.png",
+      "selector": "#kssref-components-navigation-tabs-primary",
+      "fileName": "2_19_kssref-components-navigation-tabs-primary_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_20_kssref-components-navigation-tabs-secondary_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_20_kssref-components-navigation-tabs-secondary_0_phone.png",
+      "selector": "#kssref-components-navigation-tabs-secondary",
+      "fileName": "2_20_kssref-components-navigation-tabs-secondary_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_21_kssref-components-print-none_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_21_kssref-components-print-none_0_phone.png",
+      "selector": "#kssref-components-print-none",
+      "fileName": "2_21_kssref-components-print-none_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_22_kssref-components-responsive-video_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_22_kssref-components-responsive-video_0_phone.png",
+      "selector": "#kssref-components-responsive-video",
+      "fileName": "2_22_kssref-components-responsive-video_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_23_kssref-components-visually-hidden_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_23_kssref-components-visually-hidden_0_phone.png",
+      "selector": "#kssref-components-visually-hidden",
+      "fileName": "2_23_kssref-components-visually-hidden_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_24_kssref-components-watermark_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_24_kssref-components-watermark_0_phone.png",
+      "selector": "#kssref-components-watermark",
+      "fileName": "2_24_kssref-components-watermark_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_25_kssref-components-wireframe_0_phone.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_25_kssref-components-wireframe_0_phone.png",
+      "selector": "#kssref-components-wireframe",
+      "fileName": "2_25_kssref-components-wireframe_0_phone.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_0_kssref-components-box_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_0_kssref-components-box_1_tablet_v.png",
+      "selector": "#kssref-components-box",
+      "fileName": "2_0_kssref-components-box_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_1_kssref-components-comments_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_1_kssref-components-comments_1_tablet_v.png",
+      "selector": "#kssref-components-comments",
+      "fileName": "2_1_kssref-components-comments_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_2_kssref-components-clearfix_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_2_kssref-components-clearfix_1_tablet_v.png",
+      "selector": "#kssref-components-clearfix",
+      "fileName": "2_2_kssref-components-clearfix_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_3_kssref-components-divider_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_3_kssref-components-divider_1_tablet_v.png",
+      "selector": "#kssref-components-divider",
+      "fileName": "2_3_kssref-components-divider_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_4_kssref-components-header_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_4_kssref-components-header_1_tablet_v.png",
+      "selector": "#kssref-components-header",
+      "fileName": "2_4_kssref-components-header_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_5_kssref-components-hidden_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_5_kssref-components-hidden_1_tablet_v.png",
+      "selector": "#kssref-components-hidden",
+      "fileName": "2_5_kssref-components-hidden_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_6_kssref-components-highlight-mark_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_6_kssref-components-highlight-mark_1_tablet_v.png",
+      "selector": "#kssref-components-highlight-mark",
+      "fileName": "2_6_kssref-components-highlight-mark_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_7_kssref-components-inline-links_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_7_kssref-components-inline-links_1_tablet_v.png",
+      "selector": "#kssref-components-inline-links",
+      "fileName": "2_7_kssref-components-inline-links_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_8_kssref-components-inline-sibling_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_8_kssref-components-inline-sibling_1_tablet_v.png",
+      "selector": "#kssref-components-inline-sibling",
+      "fileName": "2_8_kssref-components-inline-sibling_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_9_kssref-components-messages_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_9_kssref-components-messages_1_tablet_v.png",
+      "selector": "#kssref-components-messages",
+      "fileName": "2_9_kssref-components-messages_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_10_kssref-components-messages-multiple_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_10_kssref-components-messages-multiple_1_tablet_v.png",
+      "selector": "#kssref-components-messages-multiple",
+      "fileName": "2_10_kssref-components-messages-multiple_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_11_kssref-components-messages-status_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_11_kssref-components-messages-status_1_tablet_v.png",
+      "selector": "#kssref-components-messages-status",
+      "fileName": "2_11_kssref-components-messages-status_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_12_kssref-components-navigation-breadcrumb_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_12_kssref-components-navigation-breadcrumb_1_tablet_v.png",
+      "selector": "#kssref-components-navigation-breadcrumb",
+      "fileName": "2_12_kssref-components-navigation-breadcrumb_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_13_kssref-components-navigation-more-link_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_13_kssref-components-navigation-more-link_1_tablet_v.png",
+      "selector": "#kssref-components-navigation-more-link",
+      "fileName": "2_13_kssref-components-navigation-more-link_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_14_kssref-components-navigation-nav-menu_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_14_kssref-components-navigation-nav-menu_1_tablet_v.png",
+      "selector": "#kssref-components-navigation-nav-menu",
+      "fileName": "2_14_kssref-components-navigation-nav-menu_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_15_kssref-components-navigation-navbar_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_15_kssref-components-navigation-navbar_1_tablet_v.png",
+      "selector": "#kssref-components-navigation-navbar",
+      "fileName": "2_15_kssref-components-navigation-navbar_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_16_kssref-components-navigation-pager_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_16_kssref-components-navigation-pager_1_tablet_v.png",
+      "selector": "#kssref-components-navigation-pager",
+      "fileName": "2_16_kssref-components-navigation-pager_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_17_kssref-components-navigation-skip-link_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_17_kssref-components-navigation-skip-link_1_tablet_v.png",
+      "selector": "#kssref-components-navigation-skip-link",
+      "fileName": "2_17_kssref-components-navigation-skip-link_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_18_kssref-components-navigation-tabs_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_18_kssref-components-navigation-tabs_1_tablet_v.png",
+      "selector": "#kssref-components-navigation-tabs",
+      "fileName": "2_18_kssref-components-navigation-tabs_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_19_kssref-components-navigation-tabs-primary_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_19_kssref-components-navigation-tabs-primary_1_tablet_v.png",
+      "selector": "#kssref-components-navigation-tabs-primary",
+      "fileName": "2_19_kssref-components-navigation-tabs-primary_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_20_kssref-components-navigation-tabs-secondary_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_20_kssref-components-navigation-tabs-secondary_1_tablet_v.png",
+      "selector": "#kssref-components-navigation-tabs-secondary",
+      "fileName": "2_20_kssref-components-navigation-tabs-secondary_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_21_kssref-components-print-none_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_21_kssref-components-print-none_1_tablet_v.png",
+      "selector": "#kssref-components-print-none",
+      "fileName": "2_21_kssref-components-print-none_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_22_kssref-components-responsive-video_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_22_kssref-components-responsive-video_1_tablet_v.png",
+      "selector": "#kssref-components-responsive-video",
+      "fileName": "2_22_kssref-components-responsive-video_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_23_kssref-components-visually-hidden_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_23_kssref-components-visually-hidden_1_tablet_v.png",
+      "selector": "#kssref-components-visually-hidden",
+      "fileName": "2_23_kssref-components-visually-hidden_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_24_kssref-components-watermark_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_24_kssref-components-watermark_1_tablet_v.png",
+      "selector": "#kssref-components-watermark",
+      "fileName": "2_24_kssref-components-watermark_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_25_kssref-components-wireframe_1_tablet_v.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_25_kssref-components-wireframe_1_tablet_v.png",
+      "selector": "#kssref-components-wireframe",
+      "fileName": "2_25_kssref-components-wireframe_1_tablet_v.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_0_kssref-components-box_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_0_kssref-components-box_2_desktop.png",
+      "selector": "#kssref-components-box",
+      "fileName": "2_0_kssref-components-box_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_1_kssref-components-comments_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_1_kssref-components-comments_2_desktop.png",
+      "selector": "#kssref-components-comments",
+      "fileName": "2_1_kssref-components-comments_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_2_kssref-components-clearfix_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_2_kssref-components-clearfix_2_desktop.png",
+      "selector": "#kssref-components-clearfix",
+      "fileName": "2_2_kssref-components-clearfix_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_3_kssref-components-divider_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_3_kssref-components-divider_2_desktop.png",
+      "selector": "#kssref-components-divider",
+      "fileName": "2_3_kssref-components-divider_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_4_kssref-components-header_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_4_kssref-components-header_2_desktop.png",
+      "selector": "#kssref-components-header",
+      "fileName": "2_4_kssref-components-header_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_5_kssref-components-hidden_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_5_kssref-components-hidden_2_desktop.png",
+      "selector": "#kssref-components-hidden",
+      "fileName": "2_5_kssref-components-hidden_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_6_kssref-components-highlight-mark_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_6_kssref-components-highlight-mark_2_desktop.png",
+      "selector": "#kssref-components-highlight-mark",
+      "fileName": "2_6_kssref-components-highlight-mark_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_7_kssref-components-inline-links_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_7_kssref-components-inline-links_2_desktop.png",
+      "selector": "#kssref-components-inline-links",
+      "fileName": "2_7_kssref-components-inline-links_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_8_kssref-components-inline-sibling_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_8_kssref-components-inline-sibling_2_desktop.png",
+      "selector": "#kssref-components-inline-sibling",
+      "fileName": "2_8_kssref-components-inline-sibling_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_9_kssref-components-messages_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_9_kssref-components-messages_2_desktop.png",
+      "selector": "#kssref-components-messages",
+      "fileName": "2_9_kssref-components-messages_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_10_kssref-components-messages-multiple_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_10_kssref-components-messages-multiple_2_desktop.png",
+      "selector": "#kssref-components-messages-multiple",
+      "fileName": "2_10_kssref-components-messages-multiple_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_11_kssref-components-messages-status_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_11_kssref-components-messages-status_2_desktop.png",
+      "selector": "#kssref-components-messages-status",
+      "fileName": "2_11_kssref-components-messages-status_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_12_kssref-components-navigation-breadcrumb_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_12_kssref-components-navigation-breadcrumb_2_desktop.png",
+      "selector": "#kssref-components-navigation-breadcrumb",
+      "fileName": "2_12_kssref-components-navigation-breadcrumb_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_13_kssref-components-navigation-more-link_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_13_kssref-components-navigation-more-link_2_desktop.png",
+      "selector": "#kssref-components-navigation-more-link",
+      "fileName": "2_13_kssref-components-navigation-more-link_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_14_kssref-components-navigation-nav-menu_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_14_kssref-components-navigation-nav-menu_2_desktop.png",
+      "selector": "#kssref-components-navigation-nav-menu",
+      "fileName": "2_14_kssref-components-navigation-nav-menu_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_15_kssref-components-navigation-navbar_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_15_kssref-components-navigation-navbar_2_desktop.png",
+      "selector": "#kssref-components-navigation-navbar",
+      "fileName": "2_15_kssref-components-navigation-navbar_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_16_kssref-components-navigation-pager_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_16_kssref-components-navigation-pager_2_desktop.png",
+      "selector": "#kssref-components-navigation-pager",
+      "fileName": "2_16_kssref-components-navigation-pager_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_17_kssref-components-navigation-skip-link_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_17_kssref-components-navigation-skip-link_2_desktop.png",
+      "selector": "#kssref-components-navigation-skip-link",
+      "fileName": "2_17_kssref-components-navigation-skip-link_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_18_kssref-components-navigation-tabs_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_18_kssref-components-navigation-tabs_2_desktop.png",
+      "selector": "#kssref-components-navigation-tabs",
+      "fileName": "2_18_kssref-components-navigation-tabs_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_19_kssref-components-navigation-tabs-primary_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_19_kssref-components-navigation-tabs-primary_2_desktop.png",
+      "selector": "#kssref-components-navigation-tabs-primary",
+      "fileName": "2_19_kssref-components-navigation-tabs-primary_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_20_kssref-components-navigation-tabs-secondary_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_20_kssref-components-navigation-tabs-secondary_2_desktop.png",
+      "selector": "#kssref-components-navigation-tabs-secondary",
+      "fileName": "2_20_kssref-components-navigation-tabs-secondary_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_21_kssref-components-print-none_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_21_kssref-components-print-none_2_desktop.png",
+      "selector": "#kssref-components-print-none",
+      "fileName": "2_21_kssref-components-print-none_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_22_kssref-components-responsive-video_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_22_kssref-components-responsive-video_2_desktop.png",
+      "selector": "#kssref-components-responsive-video",
+      "fileName": "2_22_kssref-components-responsive-video_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_23_kssref-components-visually-hidden_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_23_kssref-components-visually-hidden_2_desktop.png",
+      "selector": "#kssref-components-visually-hidden",
+      "fileName": "2_23_kssref-components-visually-hidden_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_24_kssref-components-watermark_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_24_kssref-components-watermark_2_desktop.png",
+      "selector": "#kssref-components-watermark",
+      "fileName": "2_24_kssref-components-watermark_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    },
+    {
+      "reference": "../../backstop_data/bitmaps_reference/2_25_kssref-components-wireframe_2_desktop.png",
+      "test": "../../backstop_data/bitmaps_test/20151002-111416/2_25_kssref-components-wireframe_2_desktop.png",
+      "selector": "#kssref-components-wireframe",
+      "fileName": "2_25_kssref-components-wireframe_2_desktop.png",
+      "label": "Components",
+      "misMatchThreshold": 0.1
+    }
+  ]
+}

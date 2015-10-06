@@ -1,0 +1,134 @@
+{
+  "viewports": [
+    {
+      "name": "phone",
+      "width": 320,
+      "height": 480
+    },
+    {
+      "name": "tablet_v",
+      "width": 568,
+      "height": 1024
+    },
+    {
+      "name": "desktop",
+      "width": 1024,
+      "height": 800
+    }
+  ],
+  "scenarios": [
+    {
+      "label": "Base",
+      "url": "http://visual-regression-presentation.local/sites/all/themes/cobalt/styleguide/section-base.html",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "#kssref-base-headings",
+        "#kssref-base-link",
+        "#kssref-base-grouping-p",
+        "#kssref-base-grouping-lists-ol",
+        "#kssref-base-grouping-lists-ul",
+        "#kssref-base-grouping-lists-dl",
+        "#kssref-base-grouping-blockquote",
+        "#kssref-base-grouping-figure",
+        "#kssref-base-grouping-hr",
+        "#kssref-base-grouping-pre",
+        "#kssref-base-table",
+        "#kssref-base-text-b",
+        "#kssref-base-text-i",
+        "#kssref-base-text-abbr",
+        "#kssref-base-text-cite",
+        "#kssref-base-text-code",
+        "#kssref-base-text-del",
+        "#kssref-base-text-dfn",
+        "#kssref-base-text-ins",
+        "#kssref-base-text-mark",
+        "#kssref-base-text-q",
+        "#kssref-base-text-s",
+        "#kssref-base-text-small",
+        "#kssref-base-text-sub",
+        "#kssref-base-text-u",
+        "#kssref-base-embedded-img",
+        "#kssref-base-embedded-svg"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Forms",
+      "url": "http://visual-regression-presentation.local/sites/all/themes/cobalt/styleguide/section-forms.html",
+      "hideSelectors": [
+        ".progress-bar__fill"
+      ],
+      "removeSelectors": [],
+      "selectors": [
+        "#kssref-forms-base-button",
+        "#kssref-forms-base-fieldset",
+        "#kssref-forms-base-input",
+        "#kssref-forms-base-input-checkbox",
+        "#kssref-forms-base-input-radio",
+        "#kssref-forms-base-label",
+        "#kssref-forms-base-select",
+        "#kssref-forms-base-textarea",
+        "#kssref-forms-autocomplete",
+        "#kssref-forms-button",
+        "#kssref-forms-collapsible-fieldset",
+        "#kssref-forms-form-item",
+        "#kssref-forms-form-item--radio",
+        "#kssref-forms-form-table",
+        "#kssref-forms-progress-bar",
+        "#kssref-forms-progress-throbber",
+        "#kssref-forms-resizable-textarea",
+        "#kssref-forms-table-drag"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Components",
+      "url": "http://visual-regression-presentation.local/sites/all/themes/cobalt/styleguide/section-components.html",
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "selectors": [
+        "#kssref-components-box",
+        "#kssref-components-comments",
+        "#kssref-components-clearfix",
+        "#kssref-components-divider",
+        "#kssref-components-header",
+        "#kssref-components-hidden",
+        "#kssref-components-highlight-mark",
+        "#kssref-components-inline-links",
+        "#kssref-components-inline-sibling",
+        "#kssref-components-messages",
+        "#kssref-components-messages-multiple",
+        "#kssref-components-messages-status",
+        "#kssref-components-navigation-breadcrumb",
+        "#kssref-components-navigation-more-link",
+        "#kssref-components-navigation-nav-menu",
+        "#kssref-components-navigation-navbar",
+        "#kssref-components-navigation-pager",
+        "#kssref-components-navigation-skip-link",
+        "#kssref-components-navigation-tabs",
+        "#kssref-components-navigation-tabs-primary",
+        "#kssref-components-navigation-tabs-secondary",
+        "#kssref-components-print-none",
+        "#kssref-components-responsive-video",
+        "#kssref-components-visually-hidden",
+        "#kssref-components-watermark",
+        "#kssref-components-wireframe"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "../../backstop_data/bitmaps_reference",
+    "bitmaps_test": "../../backstop_data/bitmaps_test",
+    "compare_data": "../../backstop_data/bitmaps_test/compare.json"
+  },
+  "engine": "phantomjs",
+  "report": ["browser", "CLI"]
+}
